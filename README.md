@@ -16,8 +16,8 @@ As a data scientist, a strong foundation in statistics is crucial. This reposito
 
 ## How to Use This Guide
 
-1. Explore the folders corresponding to different statistical topics.
-2. Each topic folder contains a set of interview questions and detailed answers.
+1. Explore the different .md files corresponding to different statistical topics.
+2. Each .md file contains a set of interview questions and detailed answers.
 3. Use these resources to test your understanding, practice your problem-solving skills, and prepare for interviews.
 
 ## Topics Covered
